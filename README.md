@@ -19,7 +19,7 @@ Contiene el catálogo de los productos disponibles , cada uno con descripción, 
 Contiene una breve descripción de las motivaciones por las cuales fue creado este negocio y una foto de una mujer en un taller de costura .
 
 ### 4. Contacto
-####Body:
+#### Body:
 Contienen los links que redirigen al usuarios a los siguientes contactos , Facebook, Instagram y WhatsApp
 
 ### Footer.
